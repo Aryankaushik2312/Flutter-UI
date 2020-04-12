@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965775710060",
+    "firebase_url": "https://gmap-dfad3.firebaseio.com",
+    "project_id": "gmap-dfad3",
+    "storage_bucket": "gmap-dfad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965775710060:android:7b4f6c0435c487e1de8549",
+        "android_client_info": {
+          "package_name": "com.example.basic_screens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965775710060-5sfpcp6nn254sp7s1qkva091nsc548lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWYRZQxHAxL_9dytl88C7sFq18NozbMN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965775710060-5sfpcp6nn254sp7s1qkva091nsc548lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
